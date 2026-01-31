@@ -2,7 +2,7 @@
 C++, Algorithms & Systems Programming enthusiast from Ufa, Russia
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/ramilfay?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ramilfay)
 
 ![Codewars](https://www.codewars.com/users/fayramone/badges/small?theme=light) 
 
